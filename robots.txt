@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://onlinemarketer.curation.space/sitemap.xml
